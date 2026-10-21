@@ -1,0 +1,29 @@
+
+# Maven / Spring Boot
+target/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.sts4-cache/
+
+# Logs
+*.log
+
+# Variáveis de ambiente e segredos locais
+.env
+.env.*
+!.env.example
+
+# Configurações locais de produção
+application-local.properties
+application-prod.properties
+application.properties
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
